@@ -30,3 +30,5 @@ if(o):
     }
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([i])
+    print("Thank you for using this program, please also check our new game Albania Life Simulator free on the Google Play store")
+    #be kind and thank your users
